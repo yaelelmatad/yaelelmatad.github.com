@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="A89F4811-9A01-435F-A5D5-8F05AB87754F">
+  <lastEdited clientType="local-build-20130405" date="2013-04-05 16:32:16 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Small data</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The &lt;a href="perma://BLPageReference/990787EB-A4F5-46C0-BF02-15923B94CFA7"&gt;final bit of information we learned&lt;/a&gt; was that whatever the ratio of women-to-male runners is for a given birthyear, it remains constant throughout the running career of that age group.  It would be great for me to tell you what the most probable age is for running, but honestly it is hard to detach that from the explosion of runners I indicated in my &lt;a href="perma://BLPageReference/F57A09F2-E9A9-4105-A85D-6828407CB252"&gt;earlier post&lt;/a&gt;.  Here&#x2019;s that amazing plot (highlighting an &lt;b&gt;amazing cultural shift&lt;/b&gt;), one last time.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>In summary</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, April 2, 2013</richText>
+  </textBox>
+</content>

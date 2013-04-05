@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Small Data</title>
+    <link>http://yaelelmatad.github.com/Small_Data/Small_Data</link>
+    <description>A blog about exploring the word of databases, python scripts, and curious correlations.  At first piqued by a simple question about gender participation in running and growing to (just a bit) more.
+About Me</description>
+    <item>
+      <title>In summary</title>
+      <link>http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/2_In_summary.html</link>
+      <guid isPermaLink="false">2b76bba0-1253-4075-9362-489eca639762</guid>
+      <pubDate>Tue, 2 Apr 2013 13:48:40 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/2_In_summary.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>A league of their own.</title>
+      <link>http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/1_A_league_of_their_own..html</link>
+      <guid isPermaLink="false">990787eb-a4f5-46c0-bf02-15923b94cfa7</guid>
+      <pubDate>Mon, 1 Apr 2013 22:07:38 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/1_A_league_of_their_own..html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>The times are changing.</title>
+      <link>http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/1_The_times_are_changing..html</link>
+      <guid isPermaLink="false">258ca3fd-e410-40c7-be16-fd3cb5980bba</guid>
+      <pubDate>Mon, 1 Apr 2013 20:25:26 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/1_The_times_are_changing..html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Dear Men: We are coming for your unisex tech tees.</title>
+      <link>http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/1_Dear_Men__We_are_coming_for_your_unisex_tech_tees..html</link>
+      <guid isPermaLink="false">f57a09f2-e9a9-4105-a85d-6828407cb252</guid>
+      <pubDate>Mon, 1 Apr 2013 17:42:57 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/1_Dear_Men__We_are_coming_for_your_unisex_tech_tees..html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>My first database</title>
+      <link>http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/1_My_first_database.html</link>
+      <guid isPermaLink="false">1130dc9b-8bc9-44b2-8cb5-6e96fc319de3</guid>
+      <pubDate>Mon, 1 Apr 2013 14:58:16 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/1_My_first_database.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Something curious.</title>
+      <link>http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/1_Something_curious..html</link>
+      <guid isPermaLink="false">e9de051e-537f-410e-a9b0-f98ab25871c8</guid>
+      <pubDate>Mon, 1 Apr 2013 14:22:18 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/1_Something_curious..html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://yaelelmatad.github.com/Small_Data/Small_Data</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>

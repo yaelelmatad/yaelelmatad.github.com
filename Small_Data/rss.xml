@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title></title>
+    <link>http://yaelelmatad.github.com/Small_Data/Small_Data/Small_Data.html</link>
+    <description>A blog about exploring the word of databases, python scripts, and curious correlations.  At first piqued by a simple question about gender participation in running and growing to (just a bit) more.&lt;br/&gt;About Me</description>
+    <generator>iWeb 3.0.4</generator>
+    <item>
+      <title>In summary</title>
+      <link>http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/2_In_summary.html</link>
+      <guid isPermaLink="false">2b76bba0-1253-4075-9362-489eca639762</guid>
+      <pubDate>Tue, 2 Apr 2013 13:48:40 -0400</pubDate>
+      <description>The &lt;a href=&quot;Entries/2013/4/1_A_league_of_their_own..html&quot;&gt;final bit of information we learned&lt;/a&gt; was that whatever the ratio of women-to-male runners is for a given birthyear, it remains constant throughout the running career of that age group.  It would be great for me to tell you what the most probable age is for running, but honestly it is hard to detach that from the explosion of runners I indicated in my &lt;a href=&quot;Entries/2013/4/1_Dear_Men__We_are_coming_for_your_unisex_tech_tees..html&quot;&gt;earlier post&lt;/a&gt;.  Here’s that amazing plot (highlighting an amazing cultural shift), one last time.</description>
+    </item>
+    <item>
+      <title>A league of their own.</title>
+      <link>http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/1_A_league_of_their_own..html</link>
+      <guid isPermaLink="false">990787eb-a4f5-46c0-bf02-15923b94cfa7</guid>
+      <pubDate>Mon, 1 Apr 2013 22:07:38 -0400</pubDate>
+      <description>The &lt;a href=&quot;Entries/2013/4/1_The_times_are_changing..html&quot;&gt;last time&lt;/a&gt; we looked at the women and men race data we found something peculiar.  That when you looked at curves of age participation for any given race year, you found that the highest percent of women was always in the youngest demographic.  However, If you were carefully looking, you found that if you just shift the curves by the number of years in between them, you can succeed in “collapsing” the data thusly:</description>
+    </item>
+    <item>
+      <title>The times are changing.</title>
+      <link>http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/1_The_times_are_changing..html</link>
+      <guid isPermaLink="false">258ca3fd-e410-40c7-be16-fd3cb5980bba</guid>
+      <pubDate>Mon, 1 Apr 2013 20:25:26 -0400</pubDate>
+      <description>The&lt;a href=&quot;Entries/2013/4/1_Dear_Men__We_are_coming_for_your_unisex_tech_tees..html&quot;&gt; last time we spoke&lt;/a&gt; we were looking at this plot of % Female runners a function of race year for NYRR weekly races with distances between 1 mile and 26.2 miles.  The growth in the overall percentage of female runners is quite staggering.  Going from 1 in 4 to nearly 1 in 2.  Impressive.  Now let’s go a bit further.</description>
+    </item>
+    <item>
+      <title>Dear Men: We are coming for your unisex tech tees.</title>
+      <link>http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/1_Dear_Men__We_are_coming_for_your_unisex_tech_tees..html</link>
+      <guid isPermaLink="false">f57a09f2-e9a9-4105-a85d-6828407cb252</guid>
+      <pubDate>Mon, 1 Apr 2013 17:42:57 -0400</pubDate>
+      <description>Sitting down with &lt;a href=&quot;Entries/2013/4/1_My_first_database.html&quot;&gt;the data&lt;/a&gt;, it was clear that there was something big happening.  Let’s look at something very basic, the sheer number of total finishers (which may include the same person finishing multiple races) in a given race year for races between 1 mile and 26.2 miles (a marathon).</description>
+    </item>
+    <item>
+      <title>My first database</title>
+      <link>http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/1_My_first_database.html</link>
+      <guid isPermaLink="false">1130dc9b-8bc9-44b2-8cb5-6e96fc319de3</guid>
+      <pubDate>Mon, 1 Apr 2013 14:58:16 -0400</pubDate>
+      <description>Around &lt;a href=&quot;Entries/2013/4/1_Something_curious..html&quot;&gt;this time&lt;/a&gt;, I started attending &lt;a href=&quot;https://www.hackerschool.com/&quot;&gt;Hacker School&lt;/a&gt;.  So when the &lt;a href=&quot;http://www.nyrr.org/&quot;&gt;NYRR&lt;/a&gt; decided to stonewall me, I decided to hack them.  Ok. Not really “hack” but more like “take advantage of the fact that all their race data is just a few clicks away.”  So, with the help of &lt;a href=&quot;http://pepijndevos.nl/&quot;&gt;another Hacker Schooler&lt;/a&gt;, I wrote &lt;a href=&quot;https://github.com/yaelelmatad/nyrr_scrapy/tree/master/nyrr_stats/spiders&quot;&gt;my first scraper&lt;/a&gt;.  I decided to write it in python using the &lt;a href=&quot;http://scrapy.org/&quot;&gt;scrapy framework&lt;/a&gt;. I’d played a bit with python in grad school but mostly to write tiny data analysis scripts and never for anything major - certainly never for anything that involved sending requests over the internet!&lt;br/&gt;Luckily my python scripts worked and after passing “self” around a few dozen times and I finally managed to get the thing going. In the end, I scraped all the race results from the late 80s all the way up to July 2012.  The data was a bit of a mess, so of course I spent quite a bit of time &lt;a href=&quot;https://github.com/yaelelmatad/nyrr_scrapy/tree/master/pythonCSV&quot;&gt;cleaning it up&lt;/a&gt;.&lt;br/&gt;Then, of course, I had to figure out what to do with this massive CSV file.  Ok.  Not massive, but there are some 2,000,000 + rows in my CSV file. It was time to learn something about databases....  &lt;br/&gt;I ended up settling on a MySQL database, for no particularly good reason other than my data was all relational and I could use the pretty &lt;a href=&quot;http://www.sequelpro.com/&quot;&gt;Sequel Pro&lt;/a&gt; app. Here’s my personal data through July 2012, for example.&lt;br/&gt;&lt;br/&gt;</description>
+    </item>
+    <item>
+      <title>Something curious.</title>
+      <link>http://yaelelmatad.github.com/Small_Data/Small_Data/Entries/2013/4/1_Something_curious..html</link>
+      <guid isPermaLink="false">e9de051e-537f-410e-a9b0-f98ab25871c8</guid>
+      <pubDate>Mon, 1 Apr 2013 14:22:18 -0400</pubDate>
+      <description>Running has always been part of my life. I was on my elementary school’s track team and I spent many afternoons during college running the prospect park loop.  However, I didn’t take it up with any real discipline until graduate school.  A few months after my qualifying exam (big scary oral exam that determines if I can move on to writing my thesis) I decided I needed a new hobby that was not cram-as-much-physical-chemistry-into-my-brain-as-possible (curse you, Fermi’s Golden Rule!) and thus my love of long-distance running was born. &lt;br/&gt;After several half marathons, a marathon, and countless injuries, I’m still going.  To that end, when I moved back to NYC to start my postdoc I immediately signed up to be a member of the New York Road Runners (&lt;a href=&quot;http://www.nyrr.org/&quot;&gt;NYRR&lt;/a&gt;) and thus my illustrious career of “not finishing last but also not finishing even remotely close to first” was born. I present the photo on the left of me running in the Brooklyn Half Marathon as evidence.  Yes, that is the cyclone in the background.&lt;br/&gt;One thing I like almost as much as I like running is data about running.  I freak out when I have to run without my trusty GPS watch.  Therefore, when I realized that the NYRR compiles “Statistics” on their races, I had to check it out.  Here’s the race statistics page for the Brooklyn Half:</description>
+    </item>
+  </channel>
+</rss>
