@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <content collectionGUID="A89F4811-9A01-435F-A5D5-8F05AB87754F">
-  <lastEdited clientType="local-build-20130405" date="2013-04-05 16:32:16 +0000"/>
+  <lastEdited clientType="local-build-20130405" date="2013-04-05 16:51:27 +0000"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
-    <richText>SMALL data</richText>
+    <richText>&lt;a href="perma://BLPageReference/F7B21322-5089-4077-8E17-7397BC5FE049"&gt;Small Data&lt;/a&gt;</richText>
   </textBox>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
     <richText>Sitting down with &lt;a href="perma://BLPageReference/1130DC9B-8BC9-44B2-8CB5-6E96FC319DE3"&gt;the data&lt;/a&gt;, it was clear that there was something big happening.  Let&#x2019;s look at something very basic, the sheer number of total finishers (which may include the same person finishing multiple races) in a given race year for races between 1 mile and 26.2 miles (a marathon).</richText>

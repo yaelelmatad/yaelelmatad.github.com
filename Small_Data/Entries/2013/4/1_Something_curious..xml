@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <content collectionGUID="A89F4811-9A01-435F-A5D5-8F05AB87754F">
-  <lastEdited clientType="local-build-20130405" date="2013-04-05 16:32:15 +0000"/>
+  <lastEdited clientType="local-build-20130405" date="2013-04-05 16:51:26 +0000"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
-    <richText>SMALL Data</richText>
+    <richText>&lt;a href="perma://BLPageReference/F7B21322-5089-4077-8E17-7397BC5FE049"&gt;Small Data&lt;/a&gt;</richText>
   </textBox>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
     <richText>Running has always been part of my life. I was on my elementary school&#x2019;s track team and I spent many afternoons during college running the prospect park loop.  However, I didn&#x2019;t take it up with any real discipline until graduate school.  A few months after my qualifying exam (big scary oral exam that determines if I can move on to writing my thesis) I decided I needed a new hobby that was not cram-as-much-physical-chemistry-into-my-brain-as-possible (curse you, Fermi&#x2019;s Golden Rule!) and thus my love of long-distance running was born. &#xD;After several half marathons, a marathon, and countless injuries, I&#x2019;m still going.  To that end, when I moved back to NYC to start my postdoc I immediately signed up to be a member of the New York Road Runners (&lt;a href="http://www.nyrr.org/"&gt;NYRR&lt;/a&gt;) and thus my illustrious career of &#x201C;not finishing last but also not finishing even remotely close to first&#x201D; was born. I present the photo on the left of me running in the Brooklyn Half Marathon as evidence.  Yes, that is the cyclone in the background.&#xD;One thing I like almost as much as I like running is data about running.  I freak out when I have to run without my trusty GPS watch.  Therefore, when I realized that the NYRR compiles &#x201C;Statistics&#x201D; on their races, I had to check it out.  Here&#x2019;s the race statistics page for the Brooklyn Half:</richText>

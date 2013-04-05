@@ -431,6 +431,18 @@ a:visited {
     color: rgb(18, 132, 186);
     text-decoration: none;
 }
+a.class1 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class1:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class1:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
 a:hover {
     color: rgb(181, 181, 181);
     text-decoration: none;
