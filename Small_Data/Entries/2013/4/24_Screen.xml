@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="A89F4811-9A01-435F-A5D5-8F05AB87754F">
+  <lastEdited clientType="local-build-20130424" date="2013-04-24 18:22:34 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;a href="perma://BLPageReference/F7B21322-5089-4077-8E17-7397BC5FE049"&gt;Small Data&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I&#x2019;ve been making my way through Coursera&#x2019;s &lt;a href="https://class.coursera.org/nlangp-001/class"&gt;Natural Language Processing&lt;/a&gt; course by &lt;a href="http://www.cs.columbia.edu/~mcollins"&gt;Michael Collins&lt;/a&gt; (really excellent, highly recommended) and I&#x2019;ve recently come across a code that i don&#x2019;t really want to run on my machine (takes a bit of time to run, hogs my processor).  Plus, it seems to induce spotlight to start indexing on my mac. Who knows why.  Spotlight indexing is the bane of my existence...&#xD;Anyway, I decided to put it up on a larger computer I have access to at NYU.  So, as usual, I sshed into the cluster and started running the code. All was well, until, of course, my connection timed out and my job died.&#xD;I figured my options are as follows:&#xD;	1.	Hope that my wifi connection won&#x2019;t drop before the code finishes (not a chance in hell...)&#xD;	2.	Submit it to the cluster properly.&#xD;	3.	Learn how to use &lt;a href="http://tmux.sourceforge.net/"&gt;tmux&lt;/a&gt;.&#xD;	4.	Learn how to use &lt;a href="http://www.gnu.org/software/screen/"&gt;GNU Screen&lt;/a&gt;.&#xD;Obviously, the optimal choice is a mixture of 2 and 3.  But I just want to run this thing once, so I went with the simplest option, #4.&#xD;What is the point of GNU Screen? Basically once you&#x2019;re logged in you run the screen command, run some stuff, quit the screen command, and you&#x2019;ve essentially detached your session.  The next time you log in, you run screen again (reattach) and voila! Back where you left off (and your job has been running in the background all the while!) MAGIC.&#xD;The basic &lt;a href="http://twigstechtips.blogspot.com/2010/04/linux-use-screen-to-keep-stuff-running.html"&gt;flow&lt;/a&gt; goes like this:&#xD;In your ssh shell type:   &#xD;     $screen &#xD;Next, Run some commands  (say:)&#xD;    $python myPythonScript.py &gt; output &amp;&#xD;Then hit CTRL-A followed by D to detach and logout with peace of mind&#xD;To restart your session, just use:&#xD;    $screen -r&#xD;Now, all is well and my wifi is free to drift in and out and my code keeps chugging along.&#xD;But really, I should get to learning all the cool stuff that goes with tmux one of these days.  Maybe another post in these future....&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>GNU Screen</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday, April 24, 2013</richText>
+  </textBox>
+</content>
